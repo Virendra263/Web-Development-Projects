@@ -1,2 +1,2 @@
 # Web-Development-Projects
-Amazon html Css projects
+AmazonClone projects using html & Css
